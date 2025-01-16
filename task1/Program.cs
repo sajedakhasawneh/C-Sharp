@@ -20,7 +20,7 @@ namespace task1
 
             //task2
             double num = 1.2;
-            string  = "";
+            string city = "Irbid";
         }
     }
 }
